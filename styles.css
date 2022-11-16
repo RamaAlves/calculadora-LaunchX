@@ -5,7 +5,7 @@
 }
 
 :root{
-    --background-calculator: #c0f3e4;
+    --ligth-green: #c0f3e4;
     --water-green: #059464;
     --dark-water-green: #066d4b;
     --border-btn: #dedede;
@@ -28,7 +28,7 @@ body {
     flex-direction: column;
     width: fit-content;
     border-radius: 12px;
-    background-color: var(--background-calculator);
+    background-color: var(--ligth-green);
 }
 
 h1 {
@@ -95,6 +95,7 @@ input{
 }
 
 .clear, .plus{
+    color: var(--ligth-green);
     background-color: var(--water-green);
 }
 .clear:hover, .plus:hover{
