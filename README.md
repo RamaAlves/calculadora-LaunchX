@@ -13,6 +13,6 @@ Además arroja errores en caso de que la expresion no se pueda resolver:
 ![image](https://user-images.githubusercontent.com/110850490/202241408-ae2b6f06-f6cb-45fb-8ed4-e2e130860f88.png)
 ![image](https://user-images.githubusercontent.com/110850490/202241456-415567eb-64c1-4a3f-a0c7-9b34dd60f004.png)
 
-A cada error que se produzca lo muestra por consola:
+Cada error que se produzca se muestra por consola:
 
 ![image](https://user-images.githubusercontent.com/110850490/202242241-ea26a9eb-3293-40bb-b798-8f266ac09203.png)
